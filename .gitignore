@@ -1,0 +1,13 @@
+# Exclude sensitive files
+config/Credentials.env
+config/AuthTokens.ini
+
+# Exclude logs
+logs/
+
+# Exclude compiled binaries
+bin/
+
+# Exclude system files
+*.DS_Store
+*.swp
